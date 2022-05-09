@@ -7,5 +7,4 @@
 
 `xmodmap .Xmodmap`<br/>
 
-Пеключатели: `Ctrl+Shift` и `Menu` (⊞ или ⌘).
-
+Переключатели: `Ctrl+Shift` и `Menu`.
